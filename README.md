@@ -4,7 +4,7 @@ Builds LaTeX Exam Output
 
 Format:
 
-MCQ
+```MCQ
 Question
 A. Hey
 B. Ho
@@ -21,3 +21,4 @@ END
 ONEWORD
 What is the answer?:42
 END
+```
